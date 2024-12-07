@@ -1,0 +1,135 @@
+for beta1 = 0.01, beta2 = 0.01, T = 0.01
+mean SE: 0.9779383017786576
+mean PP: 0.7929930012563885
+SE accounting for length: 0.9771409801886062
+PP accounting for length: 0.8149239111483185
+for beta1 = 0.1, beta2 = 0.01, T = 0.01
+mean SE: 0.9624099411528927
+mean PP: 0.9610133417008325
+SE accounting for length: 0.9624313119335666
+PP accounting for length: 0.9693221174320007
+for beta1 = 1, beta2 = 0.01, T = 0.01
+mean SE: 0.19695613316810548
+mean PP: 0.9989445021433246
+SE accounting for length: 0.18942359760184121
+PP accounting for length: 0.998900970865596
+for beta1 = 0.01, beta2 = 0.1, T = 0.01
+mean SE: 0.9731330988089608
+mean PP: 0.9053859182810048
+SE accounting for length: 0.9728887586471806
+PP accounting for length: 0.9171332953762996
+for beta1 = 0.1, beta2 = 0.1, T = 0.01
+mean SE: 0.9575895426531199
+mean PP: 0.9707777471603194
+SE accounting for length: 0.9570871838167339
+PP accounting for length: 0.9769763661521981
+for beta1 = 1, beta2 = 0.1, T = 0.01
+mean SE: 0.1461125201656747
+mean PP: 0.9985110977606343
+SE accounting for length: 0.14025229255371788
+PP accounting for length: 0.9984370713946565
+for beta1 = 0.01, beta2 = 1, T = 0.01
+mean SE: 0.9241466505319468
+mean PP: 0.9890726792729024
+SE accounting for length: 0.9195983913958127
+PP accounting for length: 0.9904681503310933
+for beta1 = 0.1, beta2 = 1, T = 0.01
+mean SE: 0.8954716755698536
+mean PP: 0.9946888246351735
+SE accounting for length: 0.8882970695686679
+PP accounting for length: 0.995414559664041
+for beta1 = 1, beta2 = 1, T = 0.01
+mean SE: 0.03558549364431396
+mean PP: 0.9972668428339425
+SE accounting for length: 0.03457704155307456
+PP accounting for length: 0.997093781313189
+for beta1 = 0.01, beta2 = 0.01, T = 0.1
+mean SE: 0.9778968630251373
+mean PP: 0.7933981859705183
+SE accounting for length: 0.9771054710316841
+PP accounting for length: 0.8153296916901667
+for beta1 = 0.1, beta2 = 0.01, T = 0.1
+mean SE: 0.9623283724779471
+mean PP: 0.9613456877839993
+SE accounting for length: 0.9623425390412604
+PP accounting for length: 0.9695931325187571
+for beta1 = 1, beta2 = 0.01, T = 0.1
+mean SE: 0.18770593168743965
+mean PP: 0.9989249574844811
+SE accounting for length: 0.18067946770973942
+PP accounting for length: 0.9988799695609776
+for beta1 = 0.01, beta2 = 0.1, T = 0.1
+mean SE: 0.9731020380970997
+mean PP: 0.9056100283225287
+SE accounting for length: 0.9728621267794892
+PP accounting for length: 0.91734069006128
+for beta1 = 0.1, beta2 = 0.1, T = 0.1
+mean SE: 0.9574489900591834
+mean PP: 0.9713873091923183
+SE accounting for length: 0.9569451471890442
+PP accounting for length: 0.9774280847396111
+for beta1 = 1, beta2 = 0.1, T = 0.1
+mean SE: 0.1376985422060552
+mean PP: 0.9984641500365089
+SE accounting for length: 0.13228048682467394
+PP accounting for length: 0.9983869238264786
+for beta1 = 0.01, beta2 = 1, T = 0.1
+mean SE: 0.923555744527062
+mean PP: 0.989570823161705
+SE accounting for length: 0.9190302448850564
+PP accounting for length: 0.9908703045357607
+for beta1 = 0.1, beta2 = 1, T = 0.1
+mean SE: 0.894778925113466
+mean PP: 0.9952296824792294
+SE accounting for length: 0.8876579047440685
+PP accounting for length: 0.9958576785606637
+for beta1 = 1, beta2 = 1, T = 0.1
+mean SE: 0.03331041141276863
+mean PP: 0.9963005659056536
+SE accounting for length: 0.03249087858389581
+PP accounting for length: 0.9961239483501946
+for beta1 = 0.01, beta2 = 0.01, T = 1
+mean SE: 0.9778549912092956
+mean PP: 0.7977776000351016
+SE accounting for length: 0.977069961874762
+PP accounting for length: 0.8196820948032583
+for beta1 = 0.1, beta2 = 0.01, T = 1
+mean SE: 0.9615885854962641
+mean PP: 0.9650620044435657
+SE accounting for length: 0.9616323559028148
+PP accounting for length: 0.9725859752839127
+for beta1 = 1, beta2 = 0.01, T = 1
+mean SE: 0.11567677048547953
+mean PP: 0.9985224071909693
+SE accounting for length: 0.11194261719748191
+PP accounting for length: 0.9983981464175923
+for beta1 = 0.01, beta2 = 0.1, T = 1
+mean SE: 0.9729947938125254
+mean PP: 0.9080163839218881
+SE accounting for length: 0.972773353887184
+PP accounting for length: 0.9195421754582892
+for beta1 = 0.1, beta2 = 0.1, T = 1
+mean SE: 0.9567584361817526
+mean PP: 0.9774290997409295
+SE accounting for length: 0.9562438413398276
+PP accounting for length: 0.982024609193744
+for beta1 = 1, beta2 = 0.1, T = 1
+mean SE: 0.08282131313759543
+mean PP: 0.9982364394794595
+SE accounting for length: 0.08029508109050805
+PP accounting for length: 0.998050802070628
+for beta1 = 0.01, beta2 = 1, T = 1
+mean SE: 0.918257454998212
+mean PP: 0.9913427447926916
+SE accounting for length: 0.9140500856267132
+PP accounting for length: 0.9923344333374067
+for beta1 = 0.1, beta2 = 1, T = 1
+mean SE: 0.8863341557921074
+mean PP: 0.9964625614593391
+SE accounting for length: 0.8797659946181039
+PP accounting for length: 0.9968543333733809
+for beta1 = 1, beta2 = 1, T = 1
+mean SE: 0.020978728955186737
+mean PP: 0.9966018575405985
+SE accounting for length: 0.020870506981094054
+PP accounting for length: 0.9961847668772382

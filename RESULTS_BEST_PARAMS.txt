@@ -1,0 +1,180 @@
+for beta1 = 1, beta2 = 0.01, T = 1
+mean SE: 0.11567677048547953
+mean PP: 0.9985224071909693
+SE accounting for length: 0.11194261719748191
+PP accounting for length: 0.9983981464175923
+for beta1 = 0.01, beta2 = 0.1, T = 1
+mean SE: 0.9729947938125254
+mean PP: 0.9080163839218881
+SE accounting for length: 0.972773353887184
+PP accounting for length: 0.9195421754582892
+for beta1 = 0.1, beta2 = 0.1, T = 1
+mean SE: 0.9567584361817526
+mean PP: 0.9774290997409295
+SE accounting for length: 0.9562438413398276
+PP accounting for length: 0.982024609193744
+for beta1 = 1, beta2 = 0.1, T = 1
+mean SE: 0.08282131313759543
+mean PP: 0.9982364394794595
+SE accounting for length: 0.08029508109050805
+PP accounting for length: 0.998050802070628
+for beta1 = 0.01, beta2 = 1, T = 1
+mean SE: 0.918257454998212
+mean PP: 0.9913427447926916
+SE accounting for length: 0.9140500856267132
+PP accounting for length: 0.9923344333374067
+...
+mean SE: 0.020978728955186737
+mean PP: 0.9966018575405985
+SE accounting for length: 0.020870506981094054
+PP accounting for length: 0.9961847668772382
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+100
+Sensitivity: 0.9991204924802498
+Positive predictivity: 0.999999999955986
+101
+Sensitivity: 0.9957310565103665
+Positive predictivity: 0.9983948635099842
+102
+Sensitivity: 0.9922445255021787
+Positive predictivity: 0.9945130315045948
+103
+Sensitivity: 0.9961740793402117
+Positive predictivity: 0.9999999999519924
+104
+Sensitivity: 0.950237992170046
+Positive predictivity: 0.9829901521493738
+105
+Sensitivity: 0.9502043849516832
+Positive predictivity: 0.9729832571928089
+106
+Sensitivity: 0.9628217349398084
+Positive predictivity: 0.9782082323981498
+107
+Sensitivity: 0.9892523364023714
+Positive predictivity: 0.9810009267386006
+108
+Sensitivity: 0.9643640350348485
+Positive predictivity: 0.9396367520865578
+109
+Sensitivity: 0.9984220906903976
+Positive predictivity: 0.9999999999604899
+111
+Sensitivity: 0.9929676511489467
+Positive predictivity: 0.9359257622211258
+112
+Sensitivity: 0.9956862744707574
+Positive predictivity: 0.9984270546205889
+113
+Sensitivity: 0.9988864141982802
+Positive predictivity: 0.508936170198328
+114
+Sensitivity: 0.8571428570975056
+Positive predictivity: 0.6708074533883724
+115
+Sensitivity: 0.9949031599900661
+Positive predictivity: 0.9999999999487704
+116
+Sensitivity: 0.9863692688564077
+Positive predictivity: 0.9987452948139379
+117
+Sensitivity: 0.997400909616803
+Positive predictivity: 0.5643382352733699
+118
+Sensitivity: 0.9895697522386107
+Positive predictivity: 0.9995610183933468
+119
+Sensitivity: 0.9489016236414087
+Positive predictivity: 0.9984924622613822
+121
+Sensitivity: 0.9920042643394453
+Positive predictivity: 0.9999999999462654
+122
+Sensitivity: 0.9987898345704401
+Positive predictivity: 0.9999999999596123
+123
+Sensitivity: 0.9986833442397179
+Positive predictivity: 0.9993412384058404
+124
+Sensitivity: 0.9895960831707713
+Positive predictivity: 0.9987646694874142
+200
+Sensitivity: 0.9301575930898941
+Positive predictivity: 0.9992304732204991
+201
+Sensitivity: 0.9553702795019435
+Positive predictivity: 0.9128397375392296
+202
+Sensitivity: 0.993476234809251
+Positive predictivity: 0.9953314658732338
+203
+Sensitivity: 0.8996138995849545
+Positive predictivity: 0.9971469329173629
+205
+Sensitivity: 0.9928892215197272
+Positive predictivity: 0.9992467042938138
+207
+Sensitivity: 0.883438155099227
+Positive predictivity: 0.9581628012297334
+208
+Sensitivity: 0.9651315789156207
+Positive predictivity: 0.9986385295779906
+209
+Sensitivity: 0.9859108780804092
+Positive predictivity: 0.9976790450597587
+210
+Sensitivity: 0.981750465512784
+Positive predictivity: 0.9984848484470271
+212
+Sensitivity: 0.9942091928702784
+Positive predictivity: 0.9992724626773637
+213
+Sensitivity: 0.9857316332426919
+Positive predictivity: 0.9999999999692024
+214
+Sensitivity: 0.983021332129603
+Positive predictivity: 0.9986731534277457
+215
+Sensitivity: 0.9508823529132094
+Positive predictivity: 0.9999999999690691
+217
+Sensitivity: 0.9649122806594337
+Positive predictivity: 0.9856630823931155
+219
+Sensitivity: 0.9316608996136826
+Positive predictivity: 0.999535962830648
+220
+Sensitivity: 0.9893668438381167
+Positive predictivity: 0.999999999951148
+221
+Sensitivity: 0.9845653939486367
+Positive predictivity: 0.9971205264912744
+222
+Sensitivity: 0.9271070614682192
+Positive predictivity: 0.9866666666268014
+223
+Sensitivity: 0.9841089670456259
+Positive predictivity: 0.9996156802075475
+228
+Sensitivity: 0.6856609060866109
+Positive predictivity: 0.9939065672989907
+230
+Sensitivity: 0.9148418491113204
+Positive predictivity: 0.9999999999556738
+231
+Sensitivity: 0.7812033813634409
+Positive predictivity: 0.9999999999363463
+232
+Sensitivity: 0.98017621139977
+Positive predictivity: 0.9850581073057522
+233
+Sensitivity: 0.9755710659588969
+Positive predictivity: 0.9999999999674797
+234
+Sensitivity: 0.9960202604560051
+Positive predictivity: 0.999636891757457
+for beta1 = 0.1, beta2 = 0.01, T = 1
+mean SE: 0.9615885854962641
+mean PP: 0.9650620044435657
+SE accounting for length: 0.9616323559028148
+PP accounting for length: 0.9725859752839127
