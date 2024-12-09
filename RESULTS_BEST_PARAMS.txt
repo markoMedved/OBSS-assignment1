@@ -1,34 +1,3 @@
-for beta1 = 1, beta2 = 0.01, T = 1
-mean SE: 0.11567677048547953
-mean PP: 0.9985224071909693
-SE accounting for length: 0.11194261719748191
-PP accounting for length: 0.9983981464175923
-for beta1 = 0.01, beta2 = 0.1, T = 1
-mean SE: 0.9729947938125254
-mean PP: 0.9080163839218881
-SE accounting for length: 0.972773353887184
-PP accounting for length: 0.9195421754582892
-for beta1 = 0.1, beta2 = 0.1, T = 1
-mean SE: 0.9567584361817526
-mean PP: 0.9774290997409295
-SE accounting for length: 0.9562438413398276
-PP accounting for length: 0.982024609193744
-for beta1 = 1, beta2 = 0.1, T = 1
-mean SE: 0.08282131313759543
-mean PP: 0.9982364394794595
-SE accounting for length: 0.08029508109050805
-PP accounting for length: 0.998050802070628
-for beta1 = 0.01, beta2 = 1, T = 1
-mean SE: 0.918257454998212
-mean PP: 0.9913427447926916
-SE accounting for length: 0.9140500856267132
-PP accounting for length: 0.9923344333374067
-...
-mean SE: 0.020978728955186737
-mean PP: 0.9966018575405985
-SE accounting for length: 0.020870506981094054
-PP accounting for length: 0.9961847668772382
-Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
 100
 Sensitivity: 0.9991204924802498
 Positive predictivity: 0.999999999955986
